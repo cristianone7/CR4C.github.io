@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CR4C Pages
 
 You can use the [editor on GitHub](https://github.com/cristianone7/CR4C.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
